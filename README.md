@@ -1,1 +1,0 @@
-# usc-hid-light
